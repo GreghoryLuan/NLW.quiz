@@ -1,2 +1,8 @@
 # NLW.quiz
-projeto quiz
+
+## Tecnologias Utilizadas
+
+-HTML
+-CSS
+-JavaScript
+-Github
